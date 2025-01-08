@@ -5,8 +5,8 @@ metadata:
 spec:
   href: 'https://docs.openshift.com/'
   location: ApplicationMenu
-  text: Red Hat Developer Blog -- Kubernetes
+  text: Red Hat Openshift Documentation
   applicationMenu:
-    section: Openshift Documentation 
+    section: Documentation 
     imageURL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmgelHXoFsiBppqY8rjU0O08uUCJWMi27FA&s
    
