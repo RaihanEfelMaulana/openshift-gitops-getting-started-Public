@@ -3,10 +3,10 @@ kind: ConsoleLink
 metadata:
   name: application-menu-rh-developer-blog
 spec:
-  href: 'https://connect.redhat.com/en'
+  href: 'https://docs.openshift.com/'
   location: ApplicationMenu
   text: Red Hat Developer Blog -- Kubernetes
   applicationMenu:
-    section: Kubernetes Blogs
-    imageURL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7eOTub-DfX6pyyeyzBsPCHH2mAYPtVOp1Yw&s
+    section: Openshift Documentation 
+    imageURL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmgelHXoFsiBppqY8rjU0O08uUCJWMi27FA&s
    
